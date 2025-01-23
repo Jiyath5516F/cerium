@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.cerium.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ExampleMixin" // Your mixin class
+  ],
+  "client": [
+    "ClientExampleMixin" // A client-side mixin
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
