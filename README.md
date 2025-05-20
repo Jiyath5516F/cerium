@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1209366891051618394/1331926185411874857/cerium.png?ex=6793646c&is=679212ec&hm=2d8b0fc7896f8c08a89ad2d873af3473716f023a1109cb8217181f1c12c07019&=&width=437&height=437" alt="Cerium Logo" width="200">
+  <img src="https://github.com/Jiyath5516F/cerium/blob/master/src/main/resources/assets/cerium/icon.png?raw=true" alt="Cerium Logo" width="200">
 </p>
 
 # Cerium - Minecraft Fabric Mod
